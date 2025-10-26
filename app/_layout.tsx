@@ -9,7 +9,7 @@ export default function RootLayout() {
         options={{
           headerBackButtonDisplayMode: "minimal",
           presentation: "modal",
-          sheetAllowedDetents:[0.5, 0.75, 1],
+          sheetAllowedDetents:[0.5, 0.7, 1],
           sheetGrabberVisible: true,
           headerShown: true,
         }}
